@@ -1,0 +1,14 @@
+# theme.toml template for a Hugo theme
+
+name = "justinpease.Com"
+license = "MIT"
+licenselink = "https://github.com/yourname/yourtheme/blob/master/LICENSE.md"
+description = ""
+homepage = "http://justinpease.com/"
+tags = ["", ""]
+features = ["", ""]
+min_version = 0.17
+
+[author]
+  name = "Justin Pease"
+  homepage = "http://justinpease.com"
